@@ -46,10 +46,11 @@
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
- <dir>
-<name>[COLORcyan]SPORT[/COLOR]</name>
-<link>file://sport.xml</link>
+<dir>
+<name>[COLORcyan]sport[/COLOR]</name>
+<link>file://chart.xml</link>
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir> 
+
 </xml>
