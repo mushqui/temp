@@ -1,0 +1,49 @@
+
+<xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layouttype>Fuck Off You Nosey Cunt</layouttype>
+
+<!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
+<xml>
+<dir>
+<title>[COLORcyan]RADIO[/COLOR]</title>
+<link>file://radio.xml</link>
+</dir>
+<dir>
+<title>[COLORcyan]TUTORIALS[/COLOR]</title>
+<link>file://tuts.xml</link>
+</dir> 
+<dir>
+<name>[COLORcyan]24/7[/COLOR]</name>
+<link>file://musicchannels.xml</link>
+<animated_thumbnail></animated_thumbnail>
+<animated_fanart></animated_fanart>
+</dir>
+<dir>
+<name>[COLORcyan]DJ SETS[/COLOR]</name>
+<link>file://djsets.xml</link>
+<animated_thumbnail></animated_thumbnail>
+<animated_fanart></animated_fanart>
+</dir>
+<dir>
+<name>[COLORcyan]GUEST MIXES[/COLOR]</name>
+<link>https://pastebin.com/raw/pai0Tj02</link>
+<animated_thumbnail></animated_thumbnail>
+<animated_fanart></animated_fanart>
+</dir>
+<dir>
+<name>[COLORcyan]MOVIES[/COLOR]</name>
+<link>file://movies.xml</link>
+<animated_thumbnail></animated_thumbnail>
+<animated_fanart></animated_fanart>
+</dir>
+
+<dir>
+<name>[COLORcyan]CHART[/COLOR]</name>
+<link>file://chart.xml</link>
+<animated_thumbnail></animated_thumbnail>
+<animated_fanart></animated_fanart>
+</dir>
+</xml>
