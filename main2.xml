@@ -14,13 +14,13 @@
 <dir>
 <title>[COLORcyan]TUTORIALS[/COLOR]</title>
 <link>file://tuts.xml</link>
-</dir> 
-<dir>
-<name>[COLORcyan]24/7[/COLOR]</name>
-<link>file://musicchannels.xml</link>
-<animated_thumbnail></animated_thumbnail>
-<animated_fanart></animated_fanart>
 </dir>
+
+<dir>
+<title>[COLORcyan]TUTORIALS[/COLOR]</title>
+<link>file://tuts.xml</link>
+</dir>  
+
 <dir>
 <name>[COLORcyan]DJ SETS[/COLOR]</name>
 <link>file://djsets.xml</link>
@@ -33,24 +33,6 @@
 <animated_thumbnail></animated_thumbnail>
 <animated_fanart></animated_fanart>
 </dir>
-<dir>
-<name>[COLORcyan]MOVIES[/COLOR]</name>
-<link>file://movies.xml</link>
-<animated_thumbnail></animated_thumbnail>
-<animated_fanart></animated_fanart>
-</dir>
 
-<dir>
-<name>[COLORcyan]CHART[/COLOR]</name>
-<link>file://chart.xml</link>
-<animated_thumbnail></animated_thumbnail>
-<animated_fanart></animated_fanart>
-</dir>
-<dir>
-<name>[COLORcyan]SPORT[/COLOR]</name>
-<link>file://sport.xml</link>
-<animated_thumbnail></animated_thumbnail>
-<animated_fanart></animated_fanart>
-</dir> 
 
 </xml>
